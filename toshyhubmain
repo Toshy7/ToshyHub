@@ -1,5 +1,5 @@
 local MenuUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/SetUIY/main/One.lua"))()
-MenuUI:WindowCreate("Toshy Hub","","discord.gg/toshyscripts")
+MenuUI:WindowCreate("Toshy Hub","","dsc.gg/toshyscripts")
 MenuUI:ButtonAdd("Blox Fruits Hub",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Toshy7/ToshyHub/refs/heads/main/Toshyhubbbf"))()
     MenuUI:WindowDelete()
